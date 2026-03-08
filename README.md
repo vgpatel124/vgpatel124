@@ -12,7 +12,7 @@
 <a href="http://linkedin.com/in/vrajpatel124"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/vgpatel124"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://codebasics.io/portfolio/Vraj-Patel"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:vgpatel124@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:vrajpatel120405@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://files.codebasics.io/uploads/learner-portfolio/resumes/555294/68d26ed17ed86/85ef047c0c.pdf"><img src="https://img.shields.io/badge/Resume-00897B?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
 
 <br/><br/>
@@ -231,57 +231,12 @@ Currently building the next intelligent system. Stay tuned. 👀
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vgpatel124/vgpatel124/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<details>
-<summary>⚙️ Click here — How to enable the snake animation</summary>
-
-1. In your `vgpatel124` repo, go to **Settings → Actions → General**
-2. Under *Workflow permissions*, select **Read and write permissions** → Save
-3. Create this file: `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: vgpatel124
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-4. Run the workflow manually once from **Actions → Generate Snake → Run workflow**
-
-</details>
-
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 **💬 Let's connect — always open to opportunities, collabs, or a good AI discussion.**
 
-📧 vgpatel124@gmail.com &nbsp;|&nbsp; 📞 +91 7226816729 &nbsp;|&nbsp; 🌐 [Portfolio](https://codebasics.io/portfolio/Vraj-Patel)
+📧 vrajpatel120405@gmail.com &nbsp;|&nbsp; 📞 +91 7226816729 &nbsp;
 
 </div>
