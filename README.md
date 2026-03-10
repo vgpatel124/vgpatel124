@@ -12,8 +12,8 @@
 <a href="http://linkedin.com/in/vrajpatel124"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/vgpatel124"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://codebasics.io/portfolio/Vraj-Patel"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:vrajpatel120405@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://files.codebasics.io/uploads/learner-portfolio/resumes/555294/68d26ed17ed86/85ef047c0c.pdf"><img src="https://img.shields.io/badge/Resume-00897B?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
+<a href="mailto:vrajpatel1068@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/vgpatel124/vgpatel124/raw/main/Vraj_Patel_Resume.pdf"><img src="https://img.shields.io/badge/Resume-00897B?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -28,14 +28,14 @@
 
 > *"I don't just learn data science — I ship it."*
 
-I'm **Vraj Patel**, a Data Science & AI Engineer with hands-on experience building **production-ready AI systems** across Agentic AI, GenAI, Machine Learning, and Computer Vision.
+I'm **Vraj Patel**, a Data Science & AI Engineer in my final year of B.Tech IT (CGPA: 8.82) at GH Patel College of Engineering & Technology, with hands-on experience building **production-ready AI systems** across Agentic AI, GenAI, Machine Learning, and Computer Vision.
 
-With **5 end-to-end projects** shipped — from an MCP-powered HR automation agent to a RAG-based e-commerce chatbot — I bring the rare combination of strong ML fundamentals and the ability to deliver working software. I've worked across the full AI stack: data pipelines, model training, REST APIs, and Streamlit deployments.
+With **5 end-to-end projects** shipped — from an MCP-powered HR automation agent to a ChromaDB-backed RAG e-commerce chatbot — I bring the rare combination of strong ML fundamentals and the ability to deliver working software. I've worked across the full AI stack: data pipelines, model training, REST APIs, and Streamlit deployments.
 
 | | Highlight |
 |---|---|
 | 🤖 **Agentic AI** | Shipped MCP + Claude Desktop HR automation agent |
-| 🔍 **RAG Pipelines** | LLaMA 3.3 + GROQ real-time retrieval chatbot |
+| 🔍 **RAG Pipelines** | LLaMA 3.3 + GROQ + ChromaDB real-time retrieval chatbot |
 | 📊 **ML Engineering** | Credit scoring AUC lifted **82% → 88%**, KS stat of **46** |
 | 🚗 **Computer Vision** | **92% accuracy** defect detection with EfficientNet + YOLO |
 | ☁️ **Certified** | Oracle OCI Generative AI Professional |
@@ -44,7 +44,7 @@ With **5 end-to-end projects** shipped — from an MCP-powered HR automation age
 
 ---
 
-## 🔨 What I'm Working On
+## 🔨 What I'm Building
 
 ```python
 vraj = {
@@ -76,6 +76,7 @@ vraj = {
 
 ![LLaMA](https://img.shields.io/badge/LLaMA_3.3-7C3AED?style=flat-square&logo=meta&logoColor=white)
 ![GROQ](https://img.shields.io/badge/GROQ-F55036?style=flat-square&logo=groq&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-10B981?style=flat-square&logo=databricks&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Claude_Desktop-5A67D8?style=flat-square&logo=anthropic&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-10B981?style=flat-square&logo=elasticsearch&logoColor=white)
 
@@ -84,7 +85,6 @@ vraj = {
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0052CC?style=flat-square&logo=postman&logoColor=white)
 
 **🗄️ Databases & Cloud**
@@ -111,10 +111,10 @@ vraj = {
 
 AI agent that automates **end-to-end HR onboarding** — adds employees, notifies managers, raises equipment tickets, and sends emails. Integrated with Claude Desktop via MCP.
 
-> ✅ Scalable to payroll & compliance
-> ✅ Secure credential & email automation
+> ✅ Reduced onboarding cycle from 5 days → 2 days  
+> ✅ Eliminated ~70% of manual HR intervention
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/vgpatel124)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/vgpatel124/hr-assist-)
 
 </td>
 <td width="50%" valign="top">
@@ -122,13 +122,14 @@ AI agent that automates **end-to-end HR onboarding** — adds employees, notifie
 ### 🛍️ E-Commerce Chatbot — RAG
 ![RAG](https://img.shields.io/badge/RAG-10B981?style=flat-square)
 ![LLaMA](https://img.shields.io/badge/LLaMA_3.3-F55036?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-10B981?style=flat-square)
 
-GenAI chatbot for **real-time product queries & FAQs** using Retrieval-Augmented Generation. LLaMA 3.3 + GROQ ensures blazing-fast responses with a Streamlit UI.
+GenAI chatbot for **real-time product queries & FAQs** using a ChromaDB-backed RAG pipeline. LLaMA 3.3 + GROQ ensures blazing-fast responses with a Streamlit UI.
 
-> ✅ Chat history & product filters
-> ✅ Sub-second response time with GROQ
+> ✅ 94% accuracy on intent classification  
+> ✅ 40% lower latency vs standard API calls
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/vgpatel124)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/vgpatel124/E---Commerce-Chatbot-)
 
 </td>
 </tr>
@@ -141,10 +142,10 @@ GenAI chatbot for **real-time product queries & FAQs** using Retrieval-Augmented
 
 ML credit scoring system for finance & banking. Lifted **AUC 82% → 88%** with a KS statistic of **46**, exceeding industry benchmarks.
 
-> ✅ Automated data prep pipeline
+> ✅ Automated feature engineering pipeline  
 > ✅ Interactive Streamlit analyst dashboard
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/vgpatel124)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/vgpatel124/Credit-Risk-Modeling)
 
 </td>
 <td width="50%" valign="top">
@@ -153,12 +154,12 @@ ML credit scoring system for finance & banking. Lifted **AUC 82% → 88%** with 
 ![DL](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square)
 ![Accuracy](https://img.shields.io/badge/Accuracy-92%25-10B981?style=flat-square)
 
-Computer vision pipeline using **EfficientNet + YOLO** for automotive defect detection. Heatmap visualizations speed up insurance claim assessment cycles.
+Computer vision pipeline using **EfficientNet + YOLO** for automotive defect detection. Severity-based heatmap overlays speed up insurance claim assessment.
 
-> ✅ 92% defect localization accuracy
-> ✅ Heatmap overlays in Streamlit
+> ✅ 92% defect localization accuracy  
+> ✅ 30% faster insurance inspection cycles
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/vgpatel124)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/vgpatel124/Car-Damage-Detection)
 
 </td>
 </tr>
@@ -171,10 +172,10 @@ Computer vision pipeline using **EfficientNet + YOLO** for automotive defect det
 
 Full-stack modular app with **FastAPI backend + Streamlit frontend** for real-time expense tracking with RESTful APIs, async handling, and automated testing.
 
-> ✅ Real-time data sync
+> ✅ Real-time data sync  
 > ✅ Category analytics dashboard
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/vgpatel124)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/vgpatel124/Expense-Management-System)
 
 </td>
 <td width="50%" valign="top">
@@ -237,6 +238,6 @@ Currently building the next intelligent system. Stay tuned. 👀
 
 **💬 Let's connect — always open to opportunities, collabs, or a good AI discussion.**
 
-📧 vrajpatel120405@gmail.com &nbsp;|&nbsp; 📞 +91 7226816729 &nbsp;
+📧 vrajpatel1068@gmail.com &nbsp;|&nbsp; 📞 +91 7226816729
 
 </div>
