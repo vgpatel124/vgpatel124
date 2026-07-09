@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vraj%20Patel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building%20AI%20systems%20that%20actually%20ship.&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=8+End-to-End+AI+Projects+shipped+%F0%9F%9A%80;Agentic+AI+%7C+RAG+%7C+RBAC+%7C+Computer+Vision+%7C+MLOps;Microsoft+Certified+Azure+AI+Apps+and+Agent+Developer+Associate;Open+to+GenAI+%7C+ML+Engineer+%7C+Data+Science+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=8+End-to-End+AI+Projects+shipped+%F0%9F%9A%80;Agentic+AI+%7C+RAG+%7C+RBAC+%7C+Computer+Vision+%7C+MLOps+Microsoft+Certified+Azure+AI+Apps+and+Agent+Developer+Associate;Open+to+GenAI+%7C+ML+Engineer+%7C+Data+Science+roles" alt="Typing SVG" />
 
 <br/>
 
