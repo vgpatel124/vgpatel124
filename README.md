@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vraj%20Patel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building%20AI%20systems%20that%20actually%20ship.&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&lines=8+End-to-End+AI+Projects+shipped+%F0%9F%9A%80;Agentic+AI+%7C+RAG+%7C+RBAC+%7C+Computer+Vision+%7C+MLOps;Microsoft+Certified+Azure+AI+Apps+and+Agent+Developer+Associate;Open+to+GenAI+%7C+ML+Engineer+%7C+Data+Science+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&lines=9+End-to-End+AI+Projects+shipped+%F0%9F%9A%80;Agentic+AI+%7C+RAG+%7C+RBAC+%7C+Computer+Vision+%7C+MLOps;Microsoft+Certified+Azure+AI+Apps+and+Agent+Developer+Associate;Open+to+GenAI+%7C+ML+Engineer+%7C+Data+Science+roles" alt="Typing SVG" />
 
 <br/>
 
@@ -24,16 +24,17 @@
 
 ## 🧠 About Me
 
-I'm **Vraj Patel**, a Data Science & AI Engineer in my final year of B.Tech IT (CGPA: 8.82) at GH Patel College of Engineering & Technology. I build **production-ready AI systems** — not just notebooks — across Agentic AI, RAG pipelines, RBAC-secured backends, ML, and Computer Vision.
+I'm **Vraj Patel**, a Data Science & AI Engineer in my final year of B.Tech IT (CGPA: 8.88) at GH Patel College of Engineering & Technology. I build **production-ready AI systems** — not just notebooks — across Agentic AI, RAG pipelines, RBAC-secured backends, ML, and Computer Vision.
 
-8 end-to-end projects shipped. Full stack covered: LLM orchestration, vector databases, JWT auth, REST APIs, and Streamlit deployments.
+9 end-to-end projects shipped. Full stack covered: LLM orchestration, vector databases, JWT auth, REST APIs, and Streamlit deployments.
 
 | | Highlight |
 |---|---|
-| 🔐 **RBAC RAG** | JWT-secured, department-isolated enterprise chatbot — zero cross-role leakage |
+| 🔐 **RBAC RAG** | JWT-secured enterprise chatbot with hybrid retrieval, **0 leaks in a 160-attack red-team**, **0.977 RAGAS faithfulness** |
+| 🛡️ **Data Governance** | 12-node LangGraph pipeline with PII routing, human-in-the-loop review, and guarded text-to-SQL |
 | 🛒 **Agentic Shopping** | Vision-enabled grocery agent with persistent preferences & LLM guardrails |
 | 🤖 **HR Automation** | MCP + Claude Desktop — onboarding cut from 5 days → 2 days |
-| 📊 **Credit Risk ML** | AUC lifted **82% → 88%**, KS stat of **46** — exceeds industry benchmarks |
+| 📊 **Credit Risk ML** | **0.984 AUC**, **0.967 Gini**, **KS 85.9**, default recall lifted **72% → 94%** |
 | 🚗 **Computer Vision** | **92% accuracy** defect detection with EfficientNet + YOLO |
 
 🟢 **Actively looking for roles in Data Science, ML Engineering, or AI Development.**
@@ -44,7 +45,7 @@ I'm **Vraj Patel**, a Data Science & AI Engineer in my final year of B.Tech IT (
 
 ```python
 vraj = {
-    "have_built"      : ["Agentic AI Systems", "RAG Pipelines", "RBAC Chatbots", "ML Models", "CV Pipelines", "Full-Stack AI Apps"],
+    "have_built"      : ["Agentic AI Systems", "Multi-Agent Pipelines", "RAG Pipelines", "RBAC Chatbots", "ML Models", "CV Pipelines", "Full-Stack AI Apps"],
     "have_mastered"   : ["MCP Integration", "LLM Orchestration", "JWT Auth", "Vector DBs", "Credit Risk ML", "FastAPI + Streamlit"],
     "tools_of_choice" : ["Python", "PyTorch", "LangChain", "FastAPI", "Streamlit", "GROQ", "ChromaDB"],
     "looking_for"     : "Data Science / ML Engineering / AI Development roles 🚀",
@@ -86,6 +87,7 @@ vraj = {
 ![GROQ](https://img.shields.io/badge/GROQ-F55036?style=flat-square&logo=groq&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-10B981?style=flat-square&logo=databricks&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Claude_Desktop-5A67D8?style=flat-square&logo=anthropic&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-10B981?style=flat-square&logo=elasticsearch&logoColor=white)
 
 </td>
@@ -96,6 +98,8 @@ vraj = {
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
@@ -116,21 +120,42 @@ vraj = {
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 RBAC RAG Chatbot — FinSolve `NEW`
+### 🔐 RBAC RAG Chatbot — FinSolve `UPDATED`
 ![RAG](https://img.shields.io/badge/RAG-10B981?style=flat-square)
 ![RBAC](https://img.shields.io/badge/RBAC-EF4444?style=flat-square)
+![Hybrid](https://img.shields.io/badge/Hybrid_Retrieval-6366F1?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis_Stack-DC382D?style=flat-square)
 
-Production-ready **enterprise chatbot** with JWT auth and strict server-side role-based access control. 5 department-isolated ChromaDB collections — finance, HR, marketing, engineering, general. C-level sees everything; employees see only general docs.
+Production-ready **enterprise RAG chatbot** with JWT auth and server-side role-based access control applied **before retrieval**, so unauthorized data never reaches the LLM. 6 roles over 5 department-isolated ChromaDB collections. **Hybrid retrieval** (dense search + BM25 fused with RRF, then cross-encoder reranking), Redis Stack semantic cache, and Langfuse tracing.
 
-> ✅ Zero unauthorized cross-department data leakage
-> ✅ Full JWT login flow + role badge in Streamlit UI
-> ✅ Groq LLM (LLaMA 3.1) with department-scoped retrieval
+> ✅ 160-attack RBAC red-team: **0 leaks**
+> ✅ RAGAS on 103 questions: **0.977 faithfulness**, 0.904 context precision, 0.987 context recall
+> ✅ Recall@5 **0.500 → 1.000**, MRR **0.350 → 0.836** vs dense-only (12-question set)
+> ✅ Cache hits **47 ms** vs 1.42 s for an LLM answer, P50 latency **0.92 s**
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/vgpatel124/Role-based-Chatbot)
 
 </td>
+<td width="50%" valign="top">
+
+### 🛡️ Multi-Agent Data Governance Pipeline `NEW`
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PII](https://img.shields.io/badge/PII_Governance-EF4444?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square)
+
+**12-node LangGraph pipeline** that ingests CSV, JSON, PDF, and image inputs and routes them with **conditional logic** and a failure short-circuit at every stage. **Privacy-by-design PII governance** detects 6 entity types via regex and Luhn validation, sending sensitive content to a **local model** and the rest to a hosted one. A **text-to-SQL** layer is guarded by a sqlglot AST check.
+
+> ✅ Human-in-the-loop review with **3 pause points** via LangGraph interrupts and checkpoints
+> ✅ Blocks **6 categories** of unsafe SQL before execution
+> ✅ 4 input types: CSV, JSON, PDF, image
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/vgpatel124/data-governance-pipeline)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🛒 AI Shopping Assistant — Agentic `NEW`
@@ -147,8 +172,6 @@ Conversational grocery agent with **vision-powered product search** — upload a
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/vgpatel124/AI-Shopping-Assistant)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📞 Telecom Customer Care — RAG `NEW`
@@ -165,6 +188,8 @@ Multi-source RAG bot covering connectivity, billing, SIM, roaming & devices. Ret
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/vgpatel124/Telecom-Customer-Care-Chatbot)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 HR Assist — Agentic AI
@@ -175,12 +200,11 @@ AI agent automating **end-to-end HR onboarding** — adds employees, notifies ma
 
 > ✅ Onboarding cycle: 5 days → 2 days
 > ✅ ~70% of manual HR intervention eliminated
+> ✅ 12 MCP tools served through a FastMCP server
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/vgpatel124/hr-assist-)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛍️ E-Commerce Chatbot — RAG
@@ -196,22 +220,22 @@ GenAI chatbot for **real-time product queries & FAQs** using ChromaDB-backed RAG
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/vgpatel124/E---Commerce-Chatbot-)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💳 Credit Risk Modeling — ML
 ![ML](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square)
-![AUC](https://img.shields.io/badge/AUC-88%25-10B981?style=flat-square)
+![AUC](https://img.shields.io/badge/AUC-0.984-10B981?style=flat-square)
 
-ML credit scoring for finance & banking. Lifted **AUC 82% → 88%** with KS stat of **46**, exceeding industry benchmarks. Automated feature engineering + interactive Streamlit analyst dashboard.
+ML credit scoring for finance & banking on **50,000 loan records**. Logistic Regression tuned with Optuna reaches **0.984 AUC**, **0.967 Gini**, and **KS 85.9** on 12,497 test records. Interactive Streamlit dashboard scores applicants on a 300 to 900 scale across 4 rating tiers.
 
-> ✅ Beats industry-standard KS benchmark of 40
-> ✅ End-to-end automated feature engineering pipeline
+> ✅ Default-class recall lifted **72% → 94%** with SMOTETomek
+> ✅ End-to-end pipeline: EDA, feature engineering, Optuna tuning
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/vgpatel124/Credit-Risk-Modeling)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🚗 Car Damage Detection — CV
@@ -226,6 +250,8 @@ Computer vision pipeline using **EfficientNet + YOLO** for automotive defect det
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/vgpatel124/Car-Damage-Detection)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💰 Expense Management System
@@ -240,9 +266,7 @@ Full-stack modular app — **FastAPI backend + Streamlit frontend** — for real
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/vgpatel124/Expense-Management-System)
 
 </td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+<td width="50%" valign="top">
 
 ### 🔮 Next Project Loading...
 
